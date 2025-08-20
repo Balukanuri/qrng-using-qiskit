@@ -11,7 +11,7 @@ setuptools.setup(
     description="A Quantum Random Number Generator using IBM's Qiskit",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ozaner/qRNG",
+    url="https://github.com/Balukanuri/qrng-using-qiskit",
     packages=setuptools.find_packages(),
     py_modules = ['qrng'],
     classifiers=[
@@ -21,3 +21,4 @@ setuptools.setup(
     ],
 
 )
+
