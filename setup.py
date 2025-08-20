@@ -6,8 +6,8 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="qrng",
     version="0.1.3",
-    author="Ozaner Hansha",
-    author_email="ozanerhansha@gmail.com",
+    author="Balu Kanuri",
+    author_email="balasubramanyamkanuri@gmail.com",
     description="A Quantum Random Number Generator using IBM's Qiskit",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -19,4 +19,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+
 )
